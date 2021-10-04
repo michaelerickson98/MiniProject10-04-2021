@@ -31,6 +31,11 @@
 		<name>CustomObject</name>
 	</types>
 	<types>
+		<members>Car__c</members>
+		<members>Manufacturing_Info__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
 		<members>CreateContact</members>
 		<name>EmailServicesFunction</name>
 	</types>
